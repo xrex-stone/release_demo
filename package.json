@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/xrex-stone/release_demo/issues"
   },
-  "homepage": "https://github.com/xrex-stone/release_demo#readme"
+  "homepage": "https://github.com/xrex-stone/release_demo#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
