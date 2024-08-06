@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/xrex-stone/release_demo/compare/v1.3.0...v1.4.0) (2024-08-06)
+
+
+### Features
+
+* update package description 3 ([32bf926](https://github.com/xrex-stone/release_demo/commit/32bf926ec74eda4e897fdeb2f0bc6429accf1253))
+
 # [1.3.0](https://github.com/xrex-stone/release_demo/compare/v1.2.0...v1.3.0) (2024-08-06)
 
 
